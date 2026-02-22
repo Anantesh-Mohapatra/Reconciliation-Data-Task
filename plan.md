@@ -159,11 +159,6 @@ Each robustness check must include:
 Produce:
 - Main tables
 - Robustness tables
-- Appendix sections addressing:
-  - ranges and missingness
-  - data structure
-  - variable levels
-  - missing data handling
 - A cleaned analysis dataset saved to /output.
 
 ---
